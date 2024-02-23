@@ -8,7 +8,6 @@ class Training extends StatefulWidget {
 }
 
 class _TrainingState extends State<Training> {
-  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
